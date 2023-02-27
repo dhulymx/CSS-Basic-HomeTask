@@ -1,0 +1,41 @@
+
+footer { 
+    background-color: #464547;
+    padding-left: 2em;
+    min-height: 200px;
+    max-width: 100%;
+}
+
+.footer-sitename {
+    color: #FFF;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding-left: 16px;
+}
+
+address {
+    padding-top: .5em;
+}
+
+address,
+footer > span {
+    color: rgba(255, 255, 255, 0.4);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+    display: block;
+}
+
+footer > img {
+    padding-top: 2em;
+}
+
+
